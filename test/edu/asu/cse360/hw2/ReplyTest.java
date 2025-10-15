@@ -1,6 +1,6 @@
 /**
  * CSE360 HW2
- * Author: ChatGPT
+ * Author: Arturo Sotillo Barraca
  * Description: Implements CRUD and input validation for the Student Discussion System.
  * This file demonstrates compliance with the Foundations F25 structure and documentation format.
  */
